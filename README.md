@@ -1,2 +1,2 @@
 # python-code
-my first code
+my first python code
